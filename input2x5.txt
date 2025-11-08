@@ -1,0 +1,8 @@
+Hello! This line contains punctuation: commas, periods, question marks? And exclamation points!
+
+Email: test@example.com, URL: http://localhost:8080, Phone: +1 (555) 123-4567.
+
+Math symbols: 2 + 2 = 4, 10 * 5 = 50, 100 / 4 = 25. Programming: if (x > 0) { return true; } else { return false; }
+Special chars: $100, 50%, #include <stdio.h>, &amp; &lt; &gt; &quot; &apos;
+
+8888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888
